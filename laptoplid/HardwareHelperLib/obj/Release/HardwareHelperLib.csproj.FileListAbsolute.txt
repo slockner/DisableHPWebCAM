@@ -1,0 +1,6 @@
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\bin\Release\HardwareHelperLib.dll
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\bin\Release\HardwareHelperLib.pdb
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\obj\Release\HardwareHelperLib.csprojAssemblyReference.cache
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\obj\Release\HardwareHelperLib.csproj.CoreCompileInputs.cache
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\obj\Release\HardwareHelperLib.dll
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\obj\Release\HardwareHelperLib.pdb

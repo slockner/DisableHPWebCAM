@@ -1,0 +1,12 @@
+C:\Users\lockners\Downloads\WinDeviceManagerLight-master\WinDeviceManagerLight-master\HardwareHelperLib\bin\Debug\HardwareHelperLib.dll
+C:\Users\lockners\Downloads\WinDeviceManagerLight-master\WinDeviceManagerLight-master\HardwareHelperLib\bin\Debug\HardwareHelperLib.pdb
+C:\Users\lockners\Downloads\WinDeviceManagerLight-master\WinDeviceManagerLight-master\HardwareHelperLib\obj\Debug\HardwareHelperLib.csprojAssemblyReference.cache
+C:\Users\lockners\Downloads\WinDeviceManagerLight-master\WinDeviceManagerLight-master\HardwareHelperLib\obj\Debug\HardwareHelperLib.csproj.CoreCompileInputs.cache
+C:\Users\lockners\Downloads\WinDeviceManagerLight-master\WinDeviceManagerLight-master\HardwareHelperLib\obj\Debug\HardwareHelperLib.dll
+C:\Users\lockners\Downloads\WinDeviceManagerLight-master\WinDeviceManagerLight-master\HardwareHelperLib\obj\Debug\HardwareHelperLib.pdb
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\bin\Debug\HardwareHelperLib.dll
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\bin\Debug\HardwareHelperLib.pdb
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\obj\Debug\HardwareHelperLib.csprojAssemblyReference.cache
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\obj\Debug\HardwareHelperLib.csproj.CoreCompileInputs.cache
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\obj\Debug\HardwareHelperLib.dll
+\\dsm1file\euc\Data\Shawn\laptoplid\HardwareHelperLib\obj\Debug\HardwareHelperLib.pdb
